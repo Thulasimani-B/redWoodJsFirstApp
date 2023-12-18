@@ -55,3 +55,12 @@ input .error, textarea .error
 .form-error li{
   display: list-item;
 }
+
+.flex-between {
+  display:flex;
+  justify-content: space-between;
+}
+
+.flex-between button{
+  display: inline;
+}
